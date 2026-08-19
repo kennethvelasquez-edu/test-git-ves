@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 HOLAAAA DESDE RAMA MAIN
-=======
 HOLA A TODOS DESDE RAMA BRYAN
->>>>>>> 6c46163 (fix: Se escribio saludo en Texto.txt)
+
